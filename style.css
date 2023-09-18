@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+div div div {
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 100px auto;
+}
+
+div div {
+    border: 3px solid black;
+    height: 300px;
+    width: 300px;
+    margin: 100pxpx auto;
+}
+
+div {
+    border: 3px solid black;
+    height: 500px;
+    width: 500px;
+    margin: 100px auto;
+}
